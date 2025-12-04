@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "わたしは私",
+  "base_artist": "TENSONG",
+  "createdAt": "2025-12-04T19:30:42.666125Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしは私",
+      "artist": "TENSONG",
+      "has_synced": false,
+      "path": "select/pl_01_わたしは私_TENSONG.txt"
+    }
+  ]
+}
